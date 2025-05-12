@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Wizardworks\\squareWebsite\\server\\SquareGridAPI\\SquareGridAPI.csproj",
+      "projectUniqueName": "D:\\kurser\\github\\SquareGrid\\squaregrid\\server\\SquareGridAPI\\SquareGridAPI.csproj",
       "projectName": "SquareGridAPI",
-      "projectPath": "K:\\Wizardworks\\squareWebsite\\server\\SquareGridAPI\\SquareGridAPI.csproj",
+      "projectPath": "D:\\kurser\\github\\SquareGrid\\squaregrid\\server\\SquareGridAPI\\SquareGridAPI.csproj",
       "packagesPath": "C:\\Users\\Alexandru Som\\.nuget\\packages\\",
-      "outputPath": "K:\\Wizardworks\\squareWebsite\\server\\SquareGridAPI\\obj\\",
+      "outputPath": "D:\\kurser\\github\\SquareGrid\\squaregrid\\server\\SquareGridAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexandru Som\\AppData\\Roaming\\NuGet\\NuGet.Config",

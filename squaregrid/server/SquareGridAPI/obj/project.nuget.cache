@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "seD+HbJgAZCYIi+Dsw3sQnkLmiRqxaalr3tkf8+aqGCFgYGIh9Hfwfv26v+Vjc2ecSV0PcApUQi3fxIOelL1oQ==",
+  "dgSpecHash": "HOgZIjp+h0/LYVLRAE8LvVxZAiSgjtlZkM7mhPYvag7bZ9s7XL3BefbPuZlXDLzlc+oHnzWdsEXi3gQl1s4S7A==",
   "success": true,
-  "projectFilePath": "K:\\Wizardworks\\squareWebsite\\server\\SquareGridAPI\\SquareGridAPI.csproj",
+  "projectFilePath": "D:\\kurser\\github\\SquareGrid\\squaregrid\\server\\SquareGridAPI\\SquareGridAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexandru Som\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexandru Som\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
