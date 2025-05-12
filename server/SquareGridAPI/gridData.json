@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "number": 1,
+      "color": "bg-blue-500"
+    },
+    {
+      "number": 2,
+      "color": "bg-green-500"
+    },
+    {
+      "number": 5,
+      "color": "bg-orange-500"
+    }
+  ],
+  [
+    {
+      "number": 4,
+      "color": "bg-yellow-500"
+    },
+    {
+      "number": 3,
+      "color": "bg-purple-500"
+    },
+    {
+      "number": 6,
+      "color": "bg-green-500"
+    }
+  ],
+  [
+    null,
+    null,
+    null
+  ]
+]
