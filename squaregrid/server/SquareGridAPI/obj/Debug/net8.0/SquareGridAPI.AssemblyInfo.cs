@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareGridAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef2ed8b0e580e0732dbd70997dd9a3de588eb95e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareGridAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareGridAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
