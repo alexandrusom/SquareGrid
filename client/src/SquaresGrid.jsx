@@ -3,9 +3,9 @@ import './App.css';
 
 export default function SquaresGrid() {
   const [squareCount, setSquareCount] = useState(0);
-  const [grid, setGrid] = useState([]);
-  const [isGridLoaded, setIsGridLoaded] = useState(false); // Track if the grid has been loaded
-  const [lastAddedColor, setLastAddedColor] = useState(null); // Track the last added square's color
+  const [grid, setGrid] = useState([]); 
+  const [isGridLoaded, setIsGridLoaded] = useState(false); // Track if the grid has been loaded(Fixed the issue of saving an empty grid)
+  const [lastAddedColor, setLastAddedColor] = useState(null); // Track the last added square's color(to avoid duplicates)
 
   // Function to add a new square
   const handleAddSquare = () => {
@@ -36,7 +36,7 @@ export default function SquaresGrid() {
       newGrid.push(Array(gridSize).fill(null));
     }
 
-    // Ensure the last row has enough columns
+    // Ensure the last row has enough columns 
     for (let i = 0; i < newGrid.length; i++) {
       while (newGrid[i].length < gridSize) {
         newGrid[i].push(null);
